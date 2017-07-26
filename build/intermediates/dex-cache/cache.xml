@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\JX372\AndroidStudioProjects\LinearLayoutExample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ae875287771d341158481b69538f71df7b7caaa">
+        <dex dex="D:\JX372\AndroidStudioProjects\LinearLayoutExample\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6afdea040f871f38002c30c9cd544f1da68dcdb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\JX372\AndroidStudioProjects\LinearLayoutExample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\JX372\AndroidStudioProjects\LinearLayoutExample\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_58a0d2a43aeee580413e0230603c4aa0a203888b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bit-user\.android\build-cache\0ef16dc460af8b8e3dad8ff191be46c5055a5097\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\JX372\AndroidStudioProjects\LinearLayoutExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3fe99c51daaa22d124f66ceca223627df1c303d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\JX372\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\JX372\AndroidStudioProjects\LinearLayoutExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_60f70345a41dc671a8146c4c14e6a8ef2201fffa\classes.dex" />
+    </item>
+
+</items>

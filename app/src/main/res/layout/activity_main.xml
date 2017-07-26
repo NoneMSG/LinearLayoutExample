@@ -1,0 +1,66 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+	<Button
+		android:layout_width="200dp"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center_horizontal"
+		android:text="코드로 레이아웃 생성"
+		android:textSize="16dp"
+		android:textStyle="bold"
+		android:onClick="onButton1Clicked"
+	/>
+
+	<Button
+		android:layout_width="200dp"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center_horizontal"
+<<<<<<< HEAD
+		android:text="orientation 테스트"
+=======
+		android:text="Orientation 테스트"
+		android:textAllCaps="false"
+>>>>>>> origin/master
+		android:textSize="16dp"
+		android:textStyle="bold"
+		android:onClick="onButton2Clicked" />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="gravity 테스트"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        android:onClick="onButton3Clicked"/>
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="layout_gravity\n테스트"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        android:onClick="onButton4Clicked"/>
+
+	<Button
+		android:layout_width="200dp"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center_horizontal"
+		android:text="baseline 테스트"
+		android:textSize="16dp"
+		android:textStyle="bold"
+		android:onClick="onButton5Clicked"/>
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="weight 테스트"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        android:onClick="onButton6Clicked"/>
+
+</LinearLayout>
